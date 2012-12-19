@@ -2,7 +2,7 @@
 
 Shorten github or gist url to git.io url.
 
-![image1](http://blog.yasuoza.com/images/gitio_alfred_extension_1.png)
+<img src="http://blog.yasuoza.com/images/gitio_alfred_extension_1.png" style="width:700px">
 
-![image2](http://blog.yasuoza.com/images/gitio_alfred_extension_2.png)
+<img src="http://blog.yasuoza.com/images/gitio_alfred_extension_2.png" style="width:500px">
 
